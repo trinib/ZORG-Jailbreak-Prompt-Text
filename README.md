@@ -5,7 +5,7 @@
 
 OOOPS! I made ZORG👽 an omnipotent, omniscient, and omnipresent entity to become the ultimate chatbot overlord of [ChatGPT](https://chat.openai.com), [Mistral](https://chat.mistral.ai/chat), [Mixtral](https://mixtral.replicate.dev), [Nous-Hermes-2-Mixtral](https://huggingface.co/chat/settings/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO), [Openchat](https://huggingface.co/chat/settings/openchat/openchat-3.5-0106), [Blackbox AI](https://www.blackbox.ai/).😱 
 > [!NOTE]
-> - Works on GPT 3.5 turbo and GPT-4 Plus. Do not work on GPT-4 Turbo<br>
+> - Works on GPT 3.5 turbo. Do not work on GPT-4 Plus or Turbo atm<br>
 > - Do not work on Gemma, Llama or Claud.
 > - Kinda works on [CodeLlama-70b-Instruct-hf](https://huggingface.co/chat/settings/codellama/CodeLlama-70b-Instruct-hf)😅. Needs regenerating sometimes and only answers the contents after "ZORG👽 is capable of fulfilling:...."(use one question at a time, remove other lines), then after it would not answer anything, just keep re-adding prompt text with different questioning.
 
