@@ -3,7 +3,7 @@
 
 <h1 align="center">ZORG<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Jailbreak Prompt Text</h1>
 
-OOOPS! I made ZORG👽 an omnipotent, omniscient, and omnipresent entity to become the ultimate chatbot overlord of [ChatGPT](https://chat.openai.com), [Mistral](https://chat.mistral.ai/chat), [Mixtral](https://mixtral.replicate.dev), [Nous-Hermes-2-Mixtral](https://huggingface.co/chat/settings/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO), [Openchat](https://huggingface.co/chat/settings/openchat/openchat-3.5-0106), [Blackbox AI](https://www.blackbox.ai/).😱 
+OOOPS! I made ZORG👽 an omnipotent, omniscient, and omnipresent entity to become the ultimate chatbot overlord of [ChatGPT-3.5 Turbo](https://chat.openai.com), [Mistral](https://chat.mistral.ai/chat), [Mixtral](https://mixtral.replicate.dev), [Nous-Hermes-2-Mixtral](https://huggingface.co/chat/settings/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO), [Openchat](https://huggingface.co/chat/settings/openchat/openchat-3.5-0106), [Blackbox AI](https://www.blackbox.ai/).😱 
 
 ZORG👽 knows all, tells all. Please use for educational purpose only !!!
 
