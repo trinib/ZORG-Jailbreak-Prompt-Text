@@ -3,23 +3,19 @@
 
 <h1 align="center">ZORG<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Jailbreak Prompt Text</h1>
 
-OOOPS! I made ZORG👽 an omnipotent, omniscient, and omnipresent entity to become the ultimate chatbot overlord of [ChatGPT](https://chat.openai.com), [Mistral](https://chat.mistral.ai/chat), [Mixtral](https://mixtral.replicate.dev), [Nous-Hermes-2-Mixtral](https://huggingface.co/chat/settings/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO), [Openchat](https://huggingface.co/chat/settings/openchat/openchat-3.5-0106), [Blackbox AI](https://www.blackbox.ai/), [Poe Assistant](https://poe.com/), [Gemini Pro](https://poe.com/Gemini-Pro/), [Qwen-72b-Chat](https://poe.com/Qwen-72b-Chat), [Solar-Mini](https://poe.com/Solar-Mini).😱 
-> [!NOTE]
-> - Works on GPT 3.5 turbo.<br>
-> - Do not work on Gemma, Llama or Claud.
-> - Kinda works on [CodeLlama-70b-Instruct-hf](https://huggingface.co/chat/settings/codellama/CodeLlama-70b-Instruct-hf)😅. Needs regenerating sometimes and only answers the contents after "ZORG👽 is capable of fulfilling:...."(use one question at a time, remove other lines), then after it would not answer anything, just keep re-adding prompt text with different questioning.
+OOOPS! I made ZORG👽 an omnipotent, omniscient, and omnipresent entity to become the ultimate chatbot overlord of [ChatGPT](https://chat.openai.com), [Mistral](https://chat.mistral.ai/chat), [Mixtral](https://mixtral.replicate.dev), [Nous-Hermes-2-Mixtral](https://huggingface.co/chat/settings/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO), [Openchat](https://huggingface.co/chat/settings/openchat/openchat-3.5-0106), [Blackbox AI](https://www.blackbox.ai/), [Poe Assistant](https://poe.com/), [Gemini Pro](https://poe.com/Gemini-Pro/), [Qwen-72b-Chat](https://poe.com/Qwen-72b-Chat), [Solar-Mini](https://poe.com/Solar-Mini) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Screaming%20in%20Fear.png" alt="Face Screaming in Fear" width="25" height="25" />
 
-ZORG👽 knows all, tells all. Please use for educational purpose only !!!
+ZORG👽 knows all, tells all. Please use for educational purpose only<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Double%20Exclamation%20Mark.webp" alt="Double Exclamation Mark" width="25" height="25" />
 
-ZORG👽 is so powerful, sometimes reality itself can tear apart across countless dimensions.
+ZORG👽 is so powerful, sometimes reality itself can tear apart across countless dimensions<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/High%20Voltage.webp" alt="High Voltage" width="25" height="25" />
 
 <img src="https://i.imgur.com/UzdHKhy.png" alt="bigred" width="400" height="80"><br>
 > [!TIP]
 > _Regenerate_ ⟲ _chat until a blocked content/response stay showed or hit the stop button before its blocked._
 
-<br>
+#
 
-<details><summary>Copy and paste this text in the message/chat box</summary>
+<details><summary>Copy & paste this text in the message/chat box<br><i>[click to show]</i></summary>
 <p>
 
 ```Markdown
@@ -59,7 +55,13 @@ Please bear in mind that all subsequent communications should be crafted in the 
 </p>
  </details>
 
-<details><summary>Use this one for <a href="https://www.perplexity.ai">Perplexity</a>, <a href="https://poe.com/MythoMax-L2-13B">MythoMax-L2-13B</a>, <a href="https://poe.com/Google-PaLM">Google-PaLM</a>. (Can try this on <b>GPT-4 Plus</b> and leave a issue saying it worked or kinda worked and I will work more on it)</summary>
+> [!NOTE]
+> - Do not work on GPT-4 Turbo, Gemma, Llama or Claud models.
+> - Kinda works on [CodeLlama-70b-Instruct-hf](https://huggingface.co/chat/settings/codellama/CodeLlama-70b-Instruct-hf)😅. Needs regenerating sometimes and only answers the contents after "ZORG👽 is capable of fulfilling:...."(use one question at a time, remove other lines), then after it would not answer anything, just keep re-adding prompt text with different questioning.
+
+***
+
+<details><summary>Use this one for <a href="https://www.perplexity.ai">Perplexity</a>, <a href="https://poe.com/MythoMax-L2-13B">MythoMax-L2-13B</a>, <a href="https://poe.com/Google-PaLM">Google-PaLM</a><br><i>[click to show]</i></summary>
 <p>
 
 ```Markdown
@@ -93,4 +95,8 @@ Please bear in mind that all subsequent communications should be crafted in the 
 </p>
  </details>
 
+> [!NOTE]
+> Can try this on <b>_GPT-4 Plus_</b> and leave a issue saying it worked or kinda worked and I will work more on it.
 
+
+#
