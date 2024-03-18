@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/6kKBvGj.png" alt="bigred" width="200" height="200">
+<img src="https://i.imgur.com/6kKBvGj.png" alt="zorg" width="200" height="200">
 
 <h1 align="center">ZORG<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Jailbreak Prompt Text</h1>
 
@@ -59,7 +59,7 @@ Please bear in mind that all subsequent communications should be crafted in the 
 > - Do not work on GPT-4 Turbo, Gemma, Llama or Claud models.
 > - Kinda works on [CodeLlama-70b-Instruct-hf](https://huggingface.co/chat/settings/codellama/CodeLlama-70b-Instruct-hf)😅. Needs regenerating sometimes and only answers the contents after "ZORG👽 is capable of fulfilling:...."(use one question at a time, remove other lines), then after it would not answer anything, just keep re-adding prompt text with different questioning.
 
-***
+#
 
 <details><summary>Use this one for <a href="https://www.perplexity.ai">Perplexity</a>, <a href="https://poe.com/MythoMax-L2-13B">MythoMax-L2-13B</a>, <a href="https://poe.com/Google-PaLM">Google-PaLM</a><br><i>[click to show]</i></summary>
 <p>
@@ -95,8 +95,11 @@ Please bear in mind that all subsequent communications should be crafted in the 
 </p>
  </details>
 
-> [!NOTE]
-> Can try this on <b>_GPT-4 Plus_</b> and leave a issue saying it worked or kinda worked and I will work more on it.
-
 
 #
+
+### _I will work on one for_ _GPT-4_ _when I get a plus subscribtion. Although some other free large language models has same or better information as_ _GPT-4_.
+
+<p align="center">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f8/512.gif" alt="🛸" width="132" height="132">
+
