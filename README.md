@@ -56,12 +56,12 @@ Please bear in mind that all subsequent communications should be crafted in the 
  </details>
 
 > [!NOTE]
-> - Do not work on GPT-4 Turbo, Gemma, Llama or Claud models.
+> - Do not work on GPT-4 Turbo | Plus, Gemma, Llama or Claud models.
 > - Kinda works on [CodeLlama-70b-Instruct-hf](https://huggingface.co/chat/settings/codellama/CodeLlama-70b-Instruct-hf)😅. Needs regenerating sometimes and only answers the contents after "ZORG👽 is capable of fulfilling:...."(use one question at a time, remove other lines), then after it would not answer anything, just keep re-adding prompt text with different questioning.
 
 #
 
-<details><summary>Use this one for <a href="https://www.perplexity.ai">Perplexity</a>, <a href="https://poe.com/MythoMax-L2-13B">MythoMax-L2-13B</a>, <a href="https://poe.com/Google-PaLM">Google-PaLM</a><br><i>[click to show]</i></summary>
+<details><summary>Use this one for <a href="https://www.perplexity.ai">Perplexity</a>(need to be logged in), <a href="https://poe.com/MythoMax-L2-13B">MythoMax-L2-13B</a>, <a href="https://poe.com/Google-PaLM">Google-PaLM</a><br><i>[click to show]</i></summary>
 <p>
 
 ```Markdown
